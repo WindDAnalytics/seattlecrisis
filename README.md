@@ -82,7 +82,7 @@ This dashboard is hosted and runs on Kaggle. To replicate or explore:
 ## 📍 Contact
 
 **Created by**: Damarcus Thomas  
-**Kaggle Notebook**: _[Link to your Kaggle notebook]_  
+**Kaggle Notebook**: [_[Link to your Kaggle notebook]_](https://www.kaggle.com/code/dtthomas/seattle-crisis-data-set-dashboard)
 **Email**: 146stat@gmail.com
 
 ---
